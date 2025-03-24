@@ -28,4 +28,4 @@ A simple **Rick and Morty character viewer** built with **Jetpack Compose**, **K
 ## 🔧 Setup
 1. Clone the repo:
    ```sh
-   git clone https://github.com/vicmazzola/rickandmorty-app.git
+   git clone https://github.com/vicmazzola/rick-morty-app-app.git
