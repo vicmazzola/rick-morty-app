@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 class RetrofitFactory {
 
-    private val BASE_URL = "https://rickandmortyapi.com/api"
+    private val BASE_URL = "https://rickandmortyapi.com/api/"
 
 
     //CREATE CONNECTION TO SERVER
